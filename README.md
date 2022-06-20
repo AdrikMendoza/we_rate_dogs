@@ -13,7 +13,7 @@ favorite_count and retweet_count seems to have a pretty normal distribution.
 The most common source is Twitter for Iphone.
 2. Do favorite_count and retweet_count have any correlation?
 It is very clear that favorite_count and retweet_counts have a positive correlation.
-3, Which dog stage have more engagement in terms of favorites and retweets?
+3. Which dog stage have more engagement in terms of favorites and retweets?
 Pupper is the dog stage best rated, on second place we have puppo, on third place doggo, and finally floofer.
 4. What are the best dog breed best rated?
 We can see that the golden retriever, labrador retriever, pembroke, chihuahua, are pug are top 5 best dog breed rated.
