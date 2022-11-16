@@ -4,7 +4,7 @@ WeRateDogs, @dog_rates, a Twitter account that rated dogs pictures with the part
 
 The aim of this project is to create an interesting and trustworthy analysis and visualizations about the datasets that will be gathered. Focusing on Data Wrangling, using Python libraries, gathering data from a variety of sources and in a variety of formats, assess its quality and tidiness, and cleaning the data.
 
-**Open the wrangle_act to see the report.**
+**Open the wrangle_act.ipynb to see the report.**
 # Conclusion
 
 A conclusion for this project and answering the questions for the @dog_rates data:
